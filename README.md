@@ -1,10 +1,4 @@
 [![We accept GEN](https://img.shields.io/badge/We_accept-GEN-brightgreen.svg)](https://github.com/GenesisCommunity/go-genesis/)
-
-<p align="center">
-  <img src="https://i.imgur.com/4lMw23m.png" width="500">
-</p>
-<br>
-
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Go Report Card](https://goreportcard.com/badge/github.com/GenesisKernel/go-genesis)](https://goreportcard.com/report/github.com/GenesisKernel/go-genesis)
 [![Build Status](https://travis-ci.org/GenesisKernel/go-genesis.svg?branch=master)](https://travis-ci.org/GenesisKernel/go-genesis)
@@ -16,17 +10,20 @@ https://camo.githubusercontent.com/915b7be44ada53c290eb157634330494ebe3e30a/6874
 )](https://godoc.org/github.com/GenesisKernel/go-genesis)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/GenesisKernel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+<p align="center">
+  <img src="https://i.imgur.com/4lMw23m.png" width="500">
+</p>
+<br>
+
 ## Contents
 
 - [Introduction](#introduction)
 - [Why is Genesis Unique?](#why-is-genesis-unique)
-- [Integration with GitHub](#integration-with-github)
 - [How Genesis Works](#how-genesis-works)
 - [Quick Start](#quick-start)
 - [Plans](#plans)
 - [Participation in Development](#participation-in-development)
 - [Documentation](#documentation)
-- [Versioning](#versioning)
 - [Developers](#developers)
 - [License](#license)
 
@@ -84,7 +81,6 @@ https://github.com/GenesisKernel/quick-start-win/releases<br>
 win_install.exe
 ```
 
-
 #### Console Blockexplorer 
 ```bash
 bash manage.sh db-shell 1
@@ -116,31 +112,8 @@ Please, read the [CONTRIBUTING.md](https://github.com/GenesisKernel/go-genesis/b
 ## Documentation
 Please, study and expand our [documentation](https://genesiskernel.readthedocs.io/en/latest/#contents)
 
-## Versioning
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/GenesisKernel/go-genesis/tags).
-
 ## Developers
-
-- Oleg Strelenko - founder, Initial work - https://github.com/c-darwin
-- Alexey Krivonogov - core developer - https://github.com/gentee
-- Alexander Boldachev - Simvolio/Protypo architecture - https://github.com/AleDvin
-- Roman Potekhin - backend developer - https://github.com/potehinre
-- Evgeny Lerner - backend developer - https://github.com/dvork1ng
-- Dmitrij Galitskij - backend developer - https://github.com/yddmat
-- Dmitriy Chertkov - backend developer - https://github.com/dchertkov
-- Roman Poletaev - backend developer - https://github.com/rpoletaev
-- Igor Chertov - frontend developer - https://github.com/Saurer
-- Alexey Voskresenskiy - Protypo constructor developer - https://github.com/av-alex
-- Vladimir Matsola - mobile developer - https://github.com/2vm
-- Alex Stern - bash/python developer - https://github.com/blitzstern5
-- Vasily Starovetskiy - Simvolio/Protypo developer - https://github.com/syypoo
-- Andrey Voronkov - Simvolio/Protypo developer - https://github.com/CynepHy6
-- Viktor Waise - Simvolio/Protypo developer - https://github.com/Waisevi
-- Aleksey Sukhanov - Simvolio/Protypo developer - https://github.com/pekanius
-- Yuriy Lomakin - MVP frontend, tester - https://github.com/ylomakin
-- Elena Konkina - tester - https://github.com/lfreze
-
-See the list of [contributors](https://github.com/GenesisKernel/go-genesis/graphs/contributors) who participated in this project.
+See the list of [developers & contributors](https://github.com/GenesisKernel/go-genesis/graphs/contributors) who participated in this project.
 <br>
 [Join](mailto:hello@genesis.space) the Genesis team!
 
